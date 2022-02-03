@@ -1,0 +1,32 @@
+G:\Meu Drive\Curso CShap\Introdução a OO\Construtor\Construtor\bin\Debug\net5.0\Construtor.exe
+G:\Meu Drive\Curso CShap\Introdução a OO\Construtor\Construtor\bin\Debug\net5.0\Construtor.deps.json
+G:\Meu Drive\Curso CShap\Introdução a OO\Construtor\Construtor\bin\Debug\net5.0\Construtor.runtimeconfig.json
+G:\Meu Drive\Curso CShap\Introdução a OO\Construtor\Construtor\bin\Debug\net5.0\Construtor.runtimeconfig.dev.json
+G:\Meu Drive\Curso CShap\Introdução a OO\Construtor\Construtor\bin\Debug\net5.0\Construtor.dll
+G:\Meu Drive\Curso CShap\Introdução a OO\Construtor\Construtor\bin\Debug\net5.0\ref\Construtor.dll
+G:\Meu Drive\Curso CShap\Introdução a OO\Construtor\Construtor\bin\Debug\net5.0\Construtor.pdb
+G:\Meu Drive\Curso CShap\Introdução a OO\Construtor\Construtor\obj\Debug\net5.0\Construtor.csproj.AssemblyReference.cache
+G:\Meu Drive\Curso CShap\Introdução a OO\Construtor\Construtor\obj\Debug\net5.0\Construtor.GeneratedMSBuildEditorConfig.editorconfig
+G:\Meu Drive\Curso CShap\Introdução a OO\Construtor\Construtor\obj\Debug\net5.0\Construtor.AssemblyInfoInputs.cache
+G:\Meu Drive\Curso CShap\Introdução a OO\Construtor\Construtor\obj\Debug\net5.0\Construtor.AssemblyInfo.cs
+G:\Meu Drive\Curso CShap\Introdução a OO\Construtor\Construtor\obj\Debug\net5.0\Construtor.csproj.CoreCompileInputs.cache
+G:\Meu Drive\Curso CShap\Introdução a OO\Construtor\Construtor\obj\Debug\net5.0\Construtor.dll
+G:\Meu Drive\Curso CShap\Introdução a OO\Construtor\Construtor\obj\Debug\net5.0\ref\Construtor.dll
+G:\Meu Drive\Curso CShap\Introdução a OO\Construtor\Construtor\obj\Debug\net5.0\Construtor.pdb
+G:\Meu Drive\Curso CShap\Introdução a OO\Construtor\Construtor\obj\Debug\net5.0\Construtor.genruntimeconfig.cache
+G:\Meu Drive\Curso c#\Construtores, palavra this, sobrecarga, encapsulamento\Construtor, sobrecarga\Construtor\bin\Debug\net5.0\Construtor.exe
+G:\Meu Drive\Curso c#\Construtores, palavra this, sobrecarga, encapsulamento\Construtor, sobrecarga\Construtor\bin\Debug\net5.0\Construtor.deps.json
+G:\Meu Drive\Curso c#\Construtores, palavra this, sobrecarga, encapsulamento\Construtor, sobrecarga\Construtor\bin\Debug\net5.0\Construtor.runtimeconfig.json
+G:\Meu Drive\Curso c#\Construtores, palavra this, sobrecarga, encapsulamento\Construtor, sobrecarga\Construtor\bin\Debug\net5.0\Construtor.runtimeconfig.dev.json
+G:\Meu Drive\Curso c#\Construtores, palavra this, sobrecarga, encapsulamento\Construtor, sobrecarga\Construtor\bin\Debug\net5.0\Construtor.dll
+G:\Meu Drive\Curso c#\Construtores, palavra this, sobrecarga, encapsulamento\Construtor, sobrecarga\Construtor\bin\Debug\net5.0\ref\Construtor.dll
+G:\Meu Drive\Curso c#\Construtores, palavra this, sobrecarga, encapsulamento\Construtor, sobrecarga\Construtor\bin\Debug\net5.0\Construtor.pdb
+G:\Meu Drive\Curso c#\Construtores, palavra this, sobrecarga, encapsulamento\Construtor, sobrecarga\Construtor\obj\Debug\net5.0\Construtor.csproj.AssemblyReference.cache
+G:\Meu Drive\Curso c#\Construtores, palavra this, sobrecarga, encapsulamento\Construtor, sobrecarga\Construtor\obj\Debug\net5.0\Construtor.GeneratedMSBuildEditorConfig.editorconfig
+G:\Meu Drive\Curso c#\Construtores, palavra this, sobrecarga, encapsulamento\Construtor, sobrecarga\Construtor\obj\Debug\net5.0\Construtor.AssemblyInfoInputs.cache
+G:\Meu Drive\Curso c#\Construtores, palavra this, sobrecarga, encapsulamento\Construtor, sobrecarga\Construtor\obj\Debug\net5.0\Construtor.AssemblyInfo.cs
+G:\Meu Drive\Curso c#\Construtores, palavra this, sobrecarga, encapsulamento\Construtor, sobrecarga\Construtor\obj\Debug\net5.0\Construtor.csproj.CoreCompileInputs.cache
+G:\Meu Drive\Curso c#\Construtores, palavra this, sobrecarga, encapsulamento\Construtor, sobrecarga\Construtor\obj\Debug\net5.0\Construtor.dll
+G:\Meu Drive\Curso c#\Construtores, palavra this, sobrecarga, encapsulamento\Construtor, sobrecarga\Construtor\obj\Debug\net5.0\ref\Construtor.dll
+G:\Meu Drive\Curso c#\Construtores, palavra this, sobrecarga, encapsulamento\Construtor, sobrecarga\Construtor\obj\Debug\net5.0\Construtor.pdb
+G:\Meu Drive\Curso c#\Construtores, palavra this, sobrecarga, encapsulamento\Construtor, sobrecarga\Construtor\obj\Debug\net5.0\Construtor.genruntimeconfig.cache

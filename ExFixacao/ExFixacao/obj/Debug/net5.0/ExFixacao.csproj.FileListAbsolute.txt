@@ -1,0 +1,16 @@
+G:\Meu Drive\Curso c#\Construtores, palavra this, sobrecarga, encapsulamento\ExFixacao\ExFixacao\bin\Debug\net5.0\ExFixacao.exe
+G:\Meu Drive\Curso c#\Construtores, palavra this, sobrecarga, encapsulamento\ExFixacao\ExFixacao\bin\Debug\net5.0\ExFixacao.deps.json
+G:\Meu Drive\Curso c#\Construtores, palavra this, sobrecarga, encapsulamento\ExFixacao\ExFixacao\bin\Debug\net5.0\ExFixacao.runtimeconfig.json
+G:\Meu Drive\Curso c#\Construtores, palavra this, sobrecarga, encapsulamento\ExFixacao\ExFixacao\bin\Debug\net5.0\ExFixacao.runtimeconfig.dev.json
+G:\Meu Drive\Curso c#\Construtores, palavra this, sobrecarga, encapsulamento\ExFixacao\ExFixacao\bin\Debug\net5.0\ExFixacao.dll
+G:\Meu Drive\Curso c#\Construtores, palavra this, sobrecarga, encapsulamento\ExFixacao\ExFixacao\bin\Debug\net5.0\ref\ExFixacao.dll
+G:\Meu Drive\Curso c#\Construtores, palavra this, sobrecarga, encapsulamento\ExFixacao\ExFixacao\bin\Debug\net5.0\ExFixacao.pdb
+G:\Meu Drive\Curso c#\Construtores, palavra this, sobrecarga, encapsulamento\ExFixacao\ExFixacao\obj\Debug\net5.0\ExFixacao.csproj.AssemblyReference.cache
+G:\Meu Drive\Curso c#\Construtores, palavra this, sobrecarga, encapsulamento\ExFixacao\ExFixacao\obj\Debug\net5.0\ExFixacao.GeneratedMSBuildEditorConfig.editorconfig
+G:\Meu Drive\Curso c#\Construtores, palavra this, sobrecarga, encapsulamento\ExFixacao\ExFixacao\obj\Debug\net5.0\ExFixacao.AssemblyInfoInputs.cache
+G:\Meu Drive\Curso c#\Construtores, palavra this, sobrecarga, encapsulamento\ExFixacao\ExFixacao\obj\Debug\net5.0\ExFixacao.AssemblyInfo.cs
+G:\Meu Drive\Curso c#\Construtores, palavra this, sobrecarga, encapsulamento\ExFixacao\ExFixacao\obj\Debug\net5.0\ExFixacao.csproj.CoreCompileInputs.cache
+G:\Meu Drive\Curso c#\Construtores, palavra this, sobrecarga, encapsulamento\ExFixacao\ExFixacao\obj\Debug\net5.0\ExFixacao.dll
+G:\Meu Drive\Curso c#\Construtores, palavra this, sobrecarga, encapsulamento\ExFixacao\ExFixacao\obj\Debug\net5.0\ref\ExFixacao.dll
+G:\Meu Drive\Curso c#\Construtores, palavra this, sobrecarga, encapsulamento\ExFixacao\ExFixacao\obj\Debug\net5.0\ExFixacao.pdb
+G:\Meu Drive\Curso c#\Construtores, palavra this, sobrecarga, encapsulamento\ExFixacao\ExFixacao\obj\Debug\net5.0\ExFixacao.genruntimeconfig.cache
